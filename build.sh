@@ -1,1 +1,1 @@
-docker build --rm -f Dockerfile -t gimme-aws-creds:latest .
+docker build --rm -f Dockerfile -t gimme-aws-creds:2.4.3 .
